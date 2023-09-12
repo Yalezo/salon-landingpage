@@ -1,0 +1,65 @@
+
+body{
+    background-color:SandyBrown;
+}
+
+.Nosi{
+    font-size: 50px;
+font-weight: bold;
+position: fixed;
+left: 500px;
+}
+
+.come{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.contact{
+background-color: aqua;
+font-size: 30px;
+font-weight: bold;
+top: 300px;
+border: 50px;
+}
+.services{
+    background-color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    top: 250px;
+    border: 50px;
+    position: absolute;
+    right: 750px;
+}
+.image{
+    position: absolute;
+    right: 100px;
+}
+.email{
+    font-size: 25px;
+    font-style: italic;
+}
+.phone{
+    font-size: 20px;
+    font-style: italic;
+}
+.blowdry{
+    position: absolute;
+    right: 840px;
+    top: 300px;
+    font-size: 25px;
+    font-style: italic;
+}
+.braids{
+    position: absolute;
+    right:835px;
+    top: 350px;
+    font-size:25px;
+    font-style: italic;
+}
+.facebook{
+position: absolute;
+right: 70px;
+top: 130px;
+
+}
